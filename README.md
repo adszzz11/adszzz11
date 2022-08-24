@@ -23,4 +23,4 @@ ALARM LIB<br>
 고객센터 서비스 구현<br>
 Obsidian.md<br>
 shields.io<br>
-FTP<br>
+FTP - 사내 전산망에서 개발 중. 기능 개선하여 개발 예정<br>
