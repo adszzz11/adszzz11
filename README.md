@@ -17,10 +17,3 @@ Here are some ideas to get you started:
 ![adszzz11's github stats](https://github-readme-stats.vercel.app/api?username=adszzz11&show_icons=true)
 
 
--TODO-<br>
-MAIL LIB<br>
-ALARM LIB<br>
-고객센터 서비스 구현<br>
-Obsidian.md<br>
-shields.io<br>
-FTP - 사내에서 개발 1차 완료. 기능 개선 예정<br>
